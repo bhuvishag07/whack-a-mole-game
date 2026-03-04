@@ -58,14 +58,5 @@ When time reaches zero, the game stops and displays the final score.
 ![9F32515A-FD0D-43F7-814A-D6A1C90E94E2_4_5005_c](https://github.com/user-attachments/assets/275d05b2-5434-4286-bddb-a6d440b332ba)
 
 
-🌟 Future Improvements
-
-🔊 Add sound effects
-
-🏆 High score tracking using localStorage
-
-🎚️ Difficulty levels (Easy / Medium / Hard)
-
-📱 Mobile-friendly touch optimization
-
-🎨 Smooth pop-up animations
+Output:
+<img width="1994" height="1102" alt="C70AC6A1-9E79-4EFB-93A1-69CFDB4F046B" src="https://github.com/user-attachments/assets/8d1490d7-3202-4f93-af94-d5206e50b19c" />
