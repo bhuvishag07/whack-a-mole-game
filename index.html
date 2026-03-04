@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Whack A Mole</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Start Screen -->
+  <section id="start-screen" class="screen active">
+    <h1>Whack-A-Mole</h1>
+    <button id="start-btn">Start Game</button>
+  </section>
+
+  <!-- Game Screen -->
+  <section id="game-screen" class="screen">
+    <div class="top-bar">
+      <div>Score: <span id="score">0</span></div>
+      <div>Time: <span id="time">30</span>s</div>
+      <button id="restart-btn">Restart</button>
+    </div>
+
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <!-- Game Over Screen -->
+  <section id="game-over-screen" class="screen">
+    <h2>Game Over 🎯</h2>
+    <p>Your Score: <span id="final-score"></span></p>
+    <button id="play-again-btn">Play Again</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
